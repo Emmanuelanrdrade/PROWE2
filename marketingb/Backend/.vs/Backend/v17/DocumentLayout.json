@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|d:\\programacion web2\\prowe2\\marketingb\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|d:\\programacion web2\\prowe2\\marketingb\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|d:\\programacion web2\\prowe2\\marketingb\\backend\\backend\\infraestructura\\repositorios\\empleadorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|solutionrelative:backend\\infraestructura\\repositorios\\empleadorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|d:\\programacion web2\\prowe2\\marketingb\\backend\\backend\\infraestructura\\repositorios\\notificacionesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|solutionrelative:backend\\infraestructura\\repositorios\\notificacionesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|d:\\programacion web2\\prowe2\\marketingb\\backend\\backend\\infraestructura\\repositorios\\productorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|solutionrelative:backend\\infraestructura\\repositorios\\productorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|d:\\programacion web2\\prowe2\\marketingb\\backend\\backend\\infraestructura\\repositorios\\publicidadrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|solutionrelative:backend\\infraestructura\\repositorios\\publicidadrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|d:\\programacion web2\\prowe2\\marketingb\\backend\\backend\\presentacion\\controladores\\empleadoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|solutionrelative:backend\\presentacion\\controladores\\empleadoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|d:\\programacion web2\\prowe2\\marketingb\\backend\\backend\\presentacion\\controladores\\notificacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|solutionrelative:backend\\presentacion\\controladores\\notificacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|d:\\programacion web2\\prowe2\\marketingb\\backend\\backend\\presentacion\\controladores\\publicidadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|solutionrelative:backend\\presentacion\\controladores\\publicidadscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|d:\\programacion web2\\prowe2\\marketingb\\backend\\backend\\core\\interfaces\\interfaspublicidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|solutionrelative:backend\\core\\interfaces\\interfaspublicidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|d:\\programacion web2\\prowe2\\marketingb\\backend\\backend\\core\\mapeadores\\publicidadmapeador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|solutionrelative:backend\\core\\mapeadores\\publicidadmapeador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|d:\\programacion web2\\prowe2\\marketingb\\backend\\backend\\presentacion\\controladores\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|solutionrelative:backend\\presentacion\\controladores\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|d:\\programacion web2\\prowe2\\marketingb\\backend\\backend\\core\\entidades\\publicidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|solutionrelative:backend\\core\\entidades\\publicidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|d:\\programacion web2\\prowe2\\marketingb\\backend\\backend\\core\\dtos\\publicidaddtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|solutionrelative:backend\\core\\dtos\\publicidaddtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|d:\\programacion web2\\prowe2\\marketingb\\backend\\backend\\core\\mapeadores\\empleadomapeador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|solutionrelative:backend\\core\\mapeadores\\empleadomapeador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|d:\\programacion web2\\prowe2\\marketingb\\backend\\backend\\infraestructura\\data\\backendcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|solutionrelative:backend\\infraestructura\\data\\backendcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|d:\\programacion web2\\prowe2\\marketingb\\backend\\backend\\core\\interfaces\\interfasempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|solutionrelative:backend\\core\\interfaces\\interfasempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|d:\\programacion web2\\prowe2\\marketingb\\backend\\backend\\core\\entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|solutionrelative:backend\\core\\entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|d:\\programacion web2\\prowe2\\marketingb\\backend\\backend\\core\\dtos\\productodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437258FD-D8DF-483C-9098-16ABA07D34E0}|Backend\\Backend.csproj|solutionrelative:backend\\core\\dtos\\productodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductoDTOs.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\core\\DTOs\\ProductoDTOs.cs",
+              "RelativeDocumentMoniker": "Backend\\core\\DTOs\\ProductoDTOs.cs",
+              "ToolTip": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\core\\DTOs\\ProductoDTOs.cs",
+              "RelativeToolTip": "Backend\\core\\DTOs\\ProductoDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:40:46.185Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificacionesRepositorio.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\infraestructura\\Repositorios\\NotificacionesRepositorio.cs",
+              "RelativeDocumentMoniker": "Backend\\infraestructura\\Repositorios\\NotificacionesRepositorio.cs",
+              "ToolTip": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\infraestructura\\Repositorios\\NotificacionesRepositorio.cs",
+              "RelativeToolTip": "Backend\\infraestructura\\Repositorios\\NotificacionesRepositorio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:35:37.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoRepositorio.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\infraestructura\\Repositorios\\EmpleadoRepositorio.cs",
+              "RelativeDocumentMoniker": "Backend\\infraestructura\\Repositorios\\EmpleadoRepositorio.cs",
+              "ToolTip": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\infraestructura\\Repositorios\\EmpleadoRepositorio.cs",
+              "RelativeToolTip": "Backend\\infraestructura\\Repositorios\\EmpleadoRepositorio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T21:15:51.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T21:00:56.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T20:53:42.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoRepositorio.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\infraestructura\\Repositorios\\ProductoRepositorio.cs",
+              "RelativeDocumentMoniker": "Backend\\infraestructura\\Repositorios\\ProductoRepositorio.cs",
+              "ToolTip": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\infraestructura\\Repositorios\\ProductoRepositorio.cs",
+              "RelativeToolTip": "Backend\\infraestructura\\Repositorios\\ProductoRepositorio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:28:08.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpleadoesController.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\presentacion\\Controladores\\EmpleadoesController.cs",
+              "RelativeDocumentMoniker": "Backend\\presentacion\\Controladores\\EmpleadoesController.cs",
+              "ToolTip": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\presentacion\\Controladores\\EmpleadoesController.cs",
+              "RelativeToolTip": "Backend\\presentacion\\Controladores\\EmpleadoesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:33:20.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificacionesController.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\presentacion\\Controladores\\NotificacionesController.cs",
+              "RelativeDocumentMoniker": "Backend\\presentacion\\Controladores\\NotificacionesController.cs",
+              "ToolTip": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\presentacion\\Controladores\\NotificacionesController.cs",
+              "RelativeToolTip": "Backend\\presentacion\\Controladores\\NotificacionesController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCAAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:30:47.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PublicidadRepositorio.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\infraestructura\\Repositorios\\PublicidadRepositorio.cs",
+              "RelativeDocumentMoniker": "Backend\\infraestructura\\Repositorios\\PublicidadRepositorio.cs",
+              "ToolTip": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\infraestructura\\Repositorios\\PublicidadRepositorio.cs",
+              "RelativeToolTip": "Backend\\infraestructura\\Repositorios\\PublicidadRepositorio.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA4wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:36:19.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PublicidadMapeador.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\core\\mapeadores\\PublicidadMapeador.cs",
+              "RelativeDocumentMoniker": "Backend\\core\\mapeadores\\PublicidadMapeador.cs",
+              "ToolTip": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\core\\mapeadores\\PublicidadMapeador.cs",
+              "RelativeToolTip": "Backend\\core\\mapeadores\\PublicidadMapeador.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:40:56.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InterfasPublicidad.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\core\\interfaces\\InterfasPublicidad.cs",
+              "RelativeDocumentMoniker": "Backend\\core\\interfaces\\InterfasPublicidad.cs",
+              "ToolTip": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\core\\interfaces\\InterfasPublicidad.cs",
+              "RelativeToolTip": "Backend\\core\\interfaces\\InterfasPublicidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:48:31.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PublicidadsController.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\presentacion\\Controladores\\PublicidadsController.cs",
+              "RelativeDocumentMoniker": "Backend\\presentacion\\Controladores\\PublicidadsController.cs",
+              "ToolTip": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\presentacion\\Controladores\\PublicidadsController.cs",
+              "RelativeToolTip": "Backend\\presentacion\\Controladores\\PublicidadsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:33:38.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\presentacion\\Controladores\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "Backend\\presentacion\\Controladores\\ProductoesController.cs",
+              "ToolTip": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\presentacion\\Controladores\\ProductoesController.cs",
+              "RelativeToolTip": "Backend\\presentacion\\Controladores\\ProductoesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:25:05.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Publicidad.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\core\\entidades\\Publicidad.cs",
+              "RelativeDocumentMoniker": "Backend\\core\\entidades\\Publicidad.cs",
+              "ToolTip": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\core\\entidades\\Publicidad.cs",
+              "RelativeToolTip": "Backend\\core\\entidades\\Publicidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:32:12.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PublicidadDTOs.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\core\\DTOs\\PublicidadDTOs.cs",
+              "RelativeDocumentMoniker": "Backend\\core\\DTOs\\PublicidadDTOs.cs",
+              "ToolTip": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\core\\DTOs\\PublicidadDTOs.cs",
+              "RelativeToolTip": "Backend\\core\\DTOs\\PublicidadDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:32:34.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmpleadoMapeador.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\core\\mapeadores\\EmpleadoMapeador.cs",
+              "RelativeDocumentMoniker": "Backend\\core\\mapeadores\\EmpleadoMapeador.cs",
+              "ToolTip": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\core\\mapeadores\\EmpleadoMapeador.cs",
+              "RelativeToolTip": "Backend\\core\\mapeadores\\EmpleadoMapeador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T21:18:17.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BackendContext.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\infraestructura\\Data\\BackendContext.cs",
+              "RelativeDocumentMoniker": "Backend\\infraestructura\\Data\\BackendContext.cs",
+              "ToolTip": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\infraestructura\\Data\\BackendContext.cs",
+              "RelativeToolTip": "Backend\\infraestructura\\Data\\BackendContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:33:13.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InterfasEmpleado.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\core\\interfaces\\InterfasEmpleado.cs",
+              "RelativeDocumentMoniker": "Backend\\core\\interfaces\\InterfasEmpleado.cs",
+              "ToolTip": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\core\\interfaces\\InterfasEmpleado.cs",
+              "RelativeToolTip": "Backend\\core\\interfaces\\InterfasEmpleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T21:20:12.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\core\\entidades\\Empleado.cs",
+              "RelativeDocumentMoniker": "Backend\\core\\entidades\\Empleado.cs",
+              "ToolTip": "D:\\PROGRAMACION WEB2\\PROWE2\\marketingb\\Backend\\Backend\\core\\entidades\\Empleado.cs",
+              "RelativeToolTip": "Backend\\core\\entidades\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:13:19.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

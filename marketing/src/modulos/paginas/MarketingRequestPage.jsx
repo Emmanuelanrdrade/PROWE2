@@ -30,18 +30,6 @@ const MarketingRequestPage = () => {
             <MarketingRequestForm onSuccess={handleSuccess} />
           </Card>
         </div>
-
-        <div className="col-lg-4">
-          <Card title="Guidelines">
-            <ul className="list-group list-group-flush">
-              <li className="list-group-item">Provide a clear and concise title</li>
-              <li className="list-group-item">Include detailed description of marketing goals</li>
-              <li className="list-group-item">Set realistic budget expectations</li>
-              <li className="list-group-item">Define your target audience</li>
-              <li className="list-group-item">Specify timeline with start and end dates</li>
-            </ul>
-          </Card>
-        </div>
       </div>
     </div>
   )
